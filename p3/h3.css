@@ -1,0 +1,50 @@
+body{
+    background-image:linear-gradient(rgb(193, 173, 247),rgb(78, 78, 239));
+    height:100vh;
+    align-content:center;
+}
+form{
+    margin: auto;
+    width: 25%;
+    height: 70%;
+    padding:20px 34px 35px 35px;
+    background-color: white;
+    border-radius: 7px;
+
+}
+p{
+    color: grey;
+}
+#fm{
+    width:95%;
+    padding: 8px;
+    border-radius: 3px;
+    
+}
+#e{
+   width:95%;
+    padding: 8px;
+    border-radius: 3px;
+    
+}
+#sub{
+    width:100%;
+    padding: 8PX;
+    border-radius: 3px;
+    
+}
+#message{
+    width:95%;
+    padding: 10px;
+    border-radius: 3px;
+}
+button{
+    width:100%;;
+    padding: 8PX;
+    background-color: rgb(104, 104, 240);
+    color: white;
+    border-radius: 3px;
+    margin-bottom: 50px;
+    border: none;
+   
+}
